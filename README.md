@@ -17,3 +17,5 @@ Analyze sales and customer data to understand revenue performance, product trend
 
 ## Insights
 
+## Dataset Source:
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
