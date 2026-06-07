@@ -1,29 +1,19 @@
-# E-commerce Customer Analysis
+# E-commerce Revenue & Customer Behavior Analysis
+
+## Business Context
+An online store operates in a competitive market and needs to understand its sales performance and customer behavior to improve business decisions.
 
 ## Objective
-Analyze customer behavior and revenue patterns in an e-commerce dataset to identify high-value customers and business opportunities.
+Analyze sales and customer data to understand revenue performance, product trends, and customer purchasing behavior.
 
-## Business Questions
-- Who are the top customers by revenue?
-- How many orders does each customer make?
-- What is the total revenue per customer?
-- Which customers have spent more than 1000?
+## Key Questions
+1. What is the total revenue?
+2. Which products generate the most revenue?
+3. Who are the most valuable customers?
+4. What is the average order value?
+5. Are there repeat customers?
 
-## Skills Used
-- JOIN (LEFT JOIN)
-- Aggregations (SUM, COUNT)
-- GROUP BY
-- WHERE vs HAVING
-- ORDER BY
+## Results
 
-## Key Insights
-- A small group of customers generates most of the revenue
-- Some customers never made a purchase (identified using LEFT JOIN)
+## Insights
 
-## Dataset
-Dataset sourced from [add link here]
-
-## Project Structure
-- README.md → project explanation  
-- queries.sql → SQL queries  
-- dataset → data files  
